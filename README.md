@@ -34,22 +34,6 @@ I enjoy building projects, solving problems, and learning how things work under 
 
 Currently focusing on building **real-world web applications** and improving my backend development skills.
 
----
-
-## 📂 Projects
-
-Some areas I work on:
-
-* 🐍 Python applications & utilities
-* 🌐 Web interfaces & Flask applications
-* 🗄️ Database-driven projects
-* 🎮 Small programming projects & games
-* 🤖 Machine Learning experiments
-
-> 🚧 More projects coming soon...
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
