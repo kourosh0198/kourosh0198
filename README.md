@@ -29,23 +29,8 @@ I enjoy building projects, solving problems, and learning how things work under 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,flask,sqlite,git,github,linux,vscode,vim" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,flask,sqlite,git,github,linux" />
 </p>
-
----
-
-## 🚀 Current Focus
-
-```text
-Python
-   │
-   ├── Flask
-   ├── SQL / SQLite
-   └── Web Development
-            │
-            ▼
-      Full-Stack Projects
-```
 
 Currently focusing on building **real-world web applications** and improving my backend development skills.
 
@@ -78,18 +63,6 @@ Some areas I work on:
 <img src="https://streak-stats.demolab.com?user=kourosh0198&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/kourosh0198/kourosh0198/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 <div align="center">
 
