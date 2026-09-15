@@ -29,7 +29,7 @@ I enjoy building projects, solving problems, and learning how things work under 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,flask,sqlite,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,git,github,linux" />
 </p>
 
 Currently focusing on building **real-world web applications** and improving my backend development skills.
