@@ -20,7 +20,6 @@ I enjoy building projects, solving problems, and learning how things work under 
 * 🐍 Strong in **Python**
 * 🌐 Good knowledge of **HTML, CSS & JavaScript**
 * 🗄️ Experienced with **SQL & SQLite**
-* 🌶️ Currently learning and building with **Flask**
 * 🤖 Familiar with basic **Machine Learning & Regression**
 * 🐧 Linux user who enjoys working with the terminal
 
