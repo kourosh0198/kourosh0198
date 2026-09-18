@@ -58,16 +58,6 @@ I'm **Kourosh**, a Python-focused developer who enjoys building practical softwa
 
 <br>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<br>
-
 ## 🚀 Currently Building
 
 <div align="center">
