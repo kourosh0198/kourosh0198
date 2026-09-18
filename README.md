@@ -1,56 +1,47 @@
 <div align="center">
 
-# 👋 Hi, I'm Kourosh
+# Kourosh — Python Developer
 
-### 🐍 Python Developer | 🌐 Web Developer
-
-I'm a programmer focused on **Python, Web Development, and Databases**.
-I enjoy building projects, solving problems, and learning how things work under the hood.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kourosh0198)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://www.linux.org/)
+Python developer with experience in web technologies, Linux, databases, and modern development tools.
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+## 🛠 Tech Stack
 
-* 🐍 Strong in **Python**
-* 🌐 Good knowledge of **HTML, CSS & JavaScript**
-* 🗄️ Experienced with **SQL & SQLite**
-* 🤖 Familiar with basic **Machine Learning & Regression**
-* 🐧 Linux user who enjoys working with the terminal
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,git,github,linux" />
-</p>
-
-Currently focusing on building **real-world web applications** and improving my backend development skills.
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kourosh0198&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh0198&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=kourosh0198&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=kourosh0198&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kourosh's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh0198&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
+<br>
+
+## 📬 Contact
+
 <div align="center">
 
-### 🚀 Always Learning • Always Building
-
-![Profile Views](https://komarev.com/ghpvc/?username=kourosh0198\&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-kmahdavi0910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmahdavi0910@gmail.com)
 
 </div>
