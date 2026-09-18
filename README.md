@@ -1,13 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kourosh&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Web%20Developer&descAlignY=55&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B44,25:0057B8,50:00A8FF,75:0066FF,100:4F46E5&height=280&section=header&text=KOUROSH&fontSize=85&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Python%20%7C%20Web%20Developer&descAlignY=58&descSize=24&descColor=E8F4FF" width="100%" alt="Kourosh Header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=550&lines=Python+%26+Web+Developer;Building+clean%2C+practical+software;Linux+%7C+Git+%7C+Docker+%7C+Databases" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=00BFFF&center=true&vCenter=true&width=700&height=55&lines=🐍+Python+Developer;🌐+Web+Developer;🐧+Linux+Enthusiast;🐳+Docker+%7C+Git+%7C+Databases;⚡+Building+Clean+%26+Practical+Software" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kourosh0198&style=for-the-badge&color=0066FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+ 
+
+<a href="https://github.com/kourosh0198?tab=followers">
+<img src="https://img.shields.io/github/followers/kourosh0198?style=for-the-badge&color=0066FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=kourosh0198&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
-<a href="https://github.com/kourosh0198?tab=followers"><img src="https://img.shields.io/github/followers/kourosh0198?style=for-the-badge&color=blue&label=Followers" alt="Followers"/></a>
 
 </div>
 
@@ -15,51 +20,96 @@
 
 ## 🧑‍💻 About Me
 
-- 🐍 Backend development with **Python**
-- 🌐 Building web interfaces with **HTML, CSS, JavaScript & Bootstrap**
-- 🗄️ Working with **SQL & SQLite** databases
-- 🐧 Comfortable working in **Linux** environments
-- 🐳 Familiar with **Docker** for containerized workflows
-- 🔧 Version control with **Git**
+I'm **Kourosh**, a Python-focused developer who enjoys building practical software and modern web applications.
+
+* 🐍 Strong focus on **Python**
+* 🌐 **HTML • CSS • JavaScript • Bootstrap**
+* 🗄️ **SQL & SQLite**
+* 🐧 Comfortable with **Linux**
+* 🐳 **Docker**
+* 🔧 **Git & GitHub**
+* 📝 **Vim & VS Code**
 
 <br>
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,sqlite,git,docker,linux,vim,vscode&theme=dark&perline=6" alt="Tech Stack Icons"/>
+### 💻 Languages & Web
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap&theme=dark" alt="Languages and Web Technologies"/>
+
+<br><br>
+
+### 🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vim,vscode,sqlite&theme=dark" alt="Tools and Environment"/>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kourosh0198&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Kourosh's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh0198&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kourosh0198&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Kourosh's GitHub Stats"/>
 
-<br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh0198&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kourosh0198&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<br><br>
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kourosh0198&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kourosh0198&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <br>
 
-## 📬 Contact
+## 🐍 Contribution Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kmahdavi0910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmahdavi0910@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kourosh0198-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kourosh0198)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br>
+
+## 🚀 Currently Building
+
+<div align="center">
+
+```text
+Python  •  Web Development  •  Linux  •  Docker  •  Databases
+```
+
+**Learning → Building → Improving**
+
+</div>
+
+<br>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/kourosh0198">
+<img src="https://img.shields.io/badge/GitHub-kourosh0198-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+ 
+
+<a href="mailto:kmahdavi0910@gmail.com">
+<img src="https://img.shields.io/badge/Email-kmahdavi0910%40gmail.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B44,20:0057B8,45:00A8FF,70:0066FF,100:4F46E5&height=200&section=footer&animation=twinkling" width="100%" alt="Kourosh Footer"/>
+
+</div>
