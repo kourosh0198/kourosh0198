@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B44,25:0057B8,50:00A8FF,75:0066FF,100:4F46E5&height=280&section=header&text=KOUROSH&fontSize=85&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Python%20%7C%20Web%20Developer&descAlignY=58&descSize=24&descColor=E8F4FF" width="100%" alt="Kourosh Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=00BFFF&center=true&vCenter=true&width=700&height=55&lines=🐍+Python+Developer;🌐+Web+Developer;🐧+Linux+Enthusiast;🐳+Docker+%7C+Git+%7C+Databases;⚡+Building+Clean+%26+Practical+Software" alt="Typing SVG"/>
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=kourosh0198&style=for-the-badge&color=0066FF&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -38,8 +36,7 @@ I'm **Kourosh**, a Python-focused developer who enjoys building practical softwa
 
 ### 💻 Languages & Web
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap&theme=dark" alt="Languages and Web Technologies"/>
-
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap&theme=dark&perline=6" alt="Programming and Web"/>
 <br><br>
 
 ### 🛠️ Tools & Environment
@@ -53,11 +50,6 @@ I'm **Kourosh**, a Python-focused developer who enjoys building practical softwa
 ## 📊 GitHub Status
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kourosh0198&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Kourosh's GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh0198&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-
 <br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kourosh0198&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
